@@ -1,0 +1,19 @@
+# Logs
+logs
+*.log
+
+# Config files
+config.js
+config.json
+
+# Build directories
+build
+dist
+
+# Node modules
+node_modules/
+
+# Other files and directories
+.DS_Store
+Thumbs.db
+desktop.ini
